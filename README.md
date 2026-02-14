@@ -1,79 +1,99 @@
 <h1 align="center">Hi 👋 I'm Vishal Verma</h1>
-<h3 align="center">Frontend Developer | MERN Stack Learner | UI Designer</h3>
 
 <p align="center">
-  <a href="https://vishalvermaprofile.netlify.app/" target="_blank">🌐 Portfolio Website</a>
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=2500&center=true&vCenter=true&width=600&lines=Frontend+Developer;MERN+Stack+Learner;UI+Designer;GSAP+%26+3D+Web+Developer" />
+</p>
+
+<p align="center">
+  🌐 <a href="https://vishalvermaprofile.netlify.app/">Visit My Portfolio</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vishal-verma65&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me  
 
-🎯 Frontend Developer passionate about building interactive & animated web experiences  
-💻 Currently learning **MERN Stack Development**  
-🎨 Love designing modern UI & visuals  
-🧠 Exploring **3D Web** with Three.js, React Three Fiber & Spline  
+✨ Frontend Developer focused on animations & clean UI  
+📚 Learning MERN Stack  
+🎨 Passionate about modern design  
+🧠 Building immersive 3D web experiences  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🧩 Tech Stack (Card Style)
 
-### 💡 Frontend  
-- HTML5  
-- CSS3  
-- Tailwind CSS  
-- SCSS  
-- React.js  
+### 💻 Frontend  
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,scss,react&perline=5" />
+</p>
 
 ### 🎬 Animations & 3D  
-- GSAP  
-- Three.js  
-- React Three Fiber  
-- Spline  
+<p>
+  <img src="https://skillicons.dev/icons?i=threejs,react" />
+  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" height="48" />
+</p>
+<p><b>Three.js • React Three Fiber • GSAP</b></p>
+
+### ⚙️ Backend (Learning)  
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=5" />
+</p>
 
 ### 🎨 Design  
-- Canva  
-
-### 📦 Currently Learning  
-- MongoDB  
-- Express.js  
-- Node.js  
+<!-- <p>
+<img src="https://skillicons.dev/icons?i=canva&perline=5" />
+</p> -->
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats (Auto Light/Dark)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vishal-verma65&show_icons=true&theme=tokyonight" />
-</p>
+<!-- <picture>
+  <source srcset="https://github-readme-stats.vercel.app/api?username=vishal-verma65&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api?username=vishal-verma65&show_icons=true&theme=default" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vishal-verma65&show_icons=true" />
+</picture> -->
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-verma65&layout=compact&theme=tokyonight" />
-</p>
+<picture>
+  <source srcset="https://github-readme-streak-stats.herokuapp.com?user=vishal-verma65&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-streak-stats.herokuapp.com?user=vishal-verma65" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vishal-verma65" />
+</picture>
+
+<!-- <picture>
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-verma65&layout=compact&theme=dark" media="(prefers-color-scheme: dark)" />
+  <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-verma65&layout=compact" media="(prefers-color-scheme: light)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishal-verma65&layout=compact" />
+</picture> -->
+
+---
+
+## 🏆 GitHub Trophies  
+
+<!-- <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vishal-verma65&theme=onedark&row=1&column=6" />
+</p> -->
 
 ---
 
 ## 🔥 What I Love Building  
 
-✅ Animated Websites  
-✅ Interactive UI  
-✅ Modern Landing Pages  
-✅ 3D Web Experiences  
-✅ Clean User Interfaces  
+🚀 Animated websites  
+🎨 UI-driven layouts  
+🌐 Interactive apps  
+🎮 3D web experiences  
+📱 Modern landing pages  
 
 ---
 
 ## 📫 Connect With Me  
 
-🌐 Portfolio: https://vishalvermaprofile.netlify.app/  
-💻 GitHub: https://github.com/vishal-verma65  
+🌐 Portfolio → https://vishalvermaprofile.netlify.app/  
+💻 GitHub → https://github.com/vishal-verma65  
 
 ---
 
-⭐ If you like my work, consider giving a star to my repositories!
-
-
-<!---
-vishal-verma65/vishal-verma65 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+⭐ If you like my work, please star my repositories!
